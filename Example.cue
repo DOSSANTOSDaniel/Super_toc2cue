@@ -1,0 +1,73 @@
+REM COMMENT "Ripped from original CD"
+CATALOG 5099997278726
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" BINARY
+TITLE "L'amour fou"
+PERFORMER "Françoise Hardy"
+
+  TRACK 01 AUDIO
+    ISRC "FRZ111200672"
+    TITLE "L' amour fou"
+    PERFORMER ""
+    INDEX 01 00:00:00
+
+  TRACK 02 AUDIO
+    ISRC "FRZ111200673"
+    TITLE "Les fous de Bassan"
+    PERFORMER ""
+    INDEX 00 02:31:30
+    INDEX 01 02:31:39
+
+  TRACK 03 AUDIO
+    ISRC "FRZ111200674"
+    TITLE "Mal au  coeur"
+    PERFORMER ""
+    INDEX 01 06:20:28
+
+  TRACK 04 AUDIO
+    ISRC "FRZ111200675"
+    TITLE "Si vous n'avez rien à me dire"
+    PERFORMER ""
+    INDEX 00 09:29:61
+    INDEX 01 09:30:04
+
+  TRACK 05 AUDIO
+    ISRC "FRZ111200676"
+    TITLE "Normandia"
+    PERFORMER ""
+    INDEX 00 13:15:21
+    INDEX 01 13:15:39
+
+  TRACK 06 AUDIO
+    ISRC "FRZ111200681"
+    TITLE "Piano-bar"
+    PERFORMER ""
+    INDEX 00 18:14:47
+    INDEX 01 18:14:67
+
+  TRACK 07 AUDIO
+    ISRC "FRZ111200682"
+    TITLE "Pourquoi vous ?"
+    PERFORMER ""
+    INDEX 00 21:45:59
+    INDEX 01 21:46:10
+
+  TRACK 08 AUDIO
+    ISRC "FRZ111200683"
+    TITLE "Soie et fourrures"
+    PERFORMER ""
+    INDEX 00 25:18:15
+    INDEX 01 25:18:31
+
+  TRACK 09 AUDIO
+    ISRC "FRZ111200684"
+    TITLE "L'enfer et le paradis"
+    PERFORMER ""
+    INDEX 00 28:54:35
+    INDEX 01 28:54:41
+
+  TRACK 10 AUDIO
+    ISRC "FRZ111200685"
+    TITLE "Rendez-vous dans une autre vie"
+    PERFORMER ""
+    INDEX 00 33:01:36
+    INDEX 01 33:01:51
