@@ -133,17 +133,8 @@ Décomposition du calcul :
 
 - Ajouter une fonction de correction automatique en cas de valeurs incohérentes, en utilisant la durée de la piste comme référence.
 
-## Licence
-
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
-
 ## Avertissements
 
 - Ce script est conçu pour les CD audio et pourrait ne pas fonctionner correctement avec d'autres types de disques.
 - Vérifiez toujours les fichiers générés avant de les utiliser.
-
----
-
-Cette version est plus fluide, mieux structurée et avec quelques clarifications supplémentaires. 😊
-Tu veux que j’ajoute autre chose ?
 
