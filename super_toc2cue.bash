@@ -1,5 +1,15 @@
 #!/usr/bin/env bash
 
+#--------------------------------------------------#
+# Script_Name: super_toc2cue.bash
+#
+# Author:  'dossantosjdf@gmail.com'
+#
+# Date: 28/02/2025
+# Version: 1.0
+# Bash_Version: 5.2.32
+#--------------------------------------------------#
+
 # Vérifier si un argument est fourni
 if [ $# -ne 1 ]; then
   echo "Il faut passer en argument un fichier toc !"
