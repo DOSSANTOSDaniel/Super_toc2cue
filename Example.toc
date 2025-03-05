@@ -1,0 +1,173 @@
+CD_DA
+
+CATALOG "5099997278726"
+CD_TEXT {
+  LANGUAGE_MAP {
+    0: 9
+  }
+  LANGUAGE 0 {
+    TITLE "L'amour fou"
+    PERFORMER "Fran\347oise Hardy"
+    SIZE_INFO { 0,  1, 10,  0, 17,  3,  0,  0,  0,  0,  0,  0,
+                0,  0,  0,  0,  0,  0,  0,  3, 22,  0,  0,  0,
+                0,  0,  0,  0,  9,  0,  0,  0,  0,  0,  0,  0}
+  }
+}
+
+// Track 1
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200672"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "L' amour fou"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 0 02:31:30
+
+
+// Track 2
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200673"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "Les fous de Bassan"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 02:31:30 03:48:73
+START 00:00:09
+
+
+// Track 3
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200674"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "Mal au  coeur"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 06:20:28 03:09:33
+
+
+// Track 4
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200675"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "Si vous n'avez rien \340 me dire"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 09:29:61 03:45:35
+START 00:00:18
+
+
+// Track 5
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200676"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "Normandia"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 13:15:21 04:59:26
+START 00:00:18
+
+
+// Track 6
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200681"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "Piano-bar"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 18:14:47 03:31:12
+START 00:00:20
+
+
+// Track 7
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200682"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "Pourquoi vous ?"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 21:45:59 03:32:31
+START 00:00:26
+
+
+// Track 8
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200683"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "Soie et fourrures"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 25:18:15 03:36:20
+START 00:00:16
+
+
+// Track 9
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200684"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "L'enfer et le paradis"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 28:54:35 04:07:01
+START 00:00:06
+
+
+// Track 10
+TRACK AUDIO
+NO COPY
+NO PRE_EMPHASIS
+TWO_CHANNEL_AUDIO
+ISRC "FRZ111200685"
+CD_TEXT {
+  LANGUAGE 0 {
+    TITLE "Rendez-vous dans une autre vie"
+    PERFORMER ""
+  }
+}
+FILE "/home/daniel/My_cd_Backup_020325142619_test/image.bin" 33:01:36 03:51:71
+START 00:00:15
+
